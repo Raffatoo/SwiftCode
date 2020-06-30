@@ -8,4 +8,4 @@ De manera personal activo este repositorio para dejar una serie de ejercicios qu
 
     01- String     - Entendiendo el uso de String.
     02- Comparator     - La palabra contienen caracteres repetidos.
-    03- Palindromo     - La palabra es un palíndromo.
+    03- Palíndromo     - La palabra es un palíndromo.
